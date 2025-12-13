@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+.header-section {
+    padding: 3rem 0;
+    background-color: #e9ecef;
+    text-align: center;
+}
+
+.info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px; 
+}
+.social{        
+    list-style-type: none;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.social li a{    
+    padding: 0 10px;
+    font-size:larger;
+    color:whitesmoke;    
+}
+.card-title{
+    text-align: center;
+}
+
+.somul-example {
+    position: relative;
+    height: 350px;
+    overflow-y: scroll;
+}
